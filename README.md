@@ -29,7 +29,7 @@ Graph Engine → Propagation → Anomaly Detection → Risk Analysis
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/graphshield
+git clone https://github.com/nihan-98716/graphshield
 cd graphshield
 pip install -r requirements.txt
 ```
